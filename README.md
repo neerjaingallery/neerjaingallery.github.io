@@ -1,5 +1,3 @@
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
-
 ## How to use
  - Place a image in `/img/portfolio/`
  - Create posts to display your projects. Use the follow as an example:
